@@ -1,0 +1,10 @@
+.heart {
+    display: none;
+    font-size: 50px;
+    color: red;
+}
+
+body {
+    background-color: pink;
+}
+
